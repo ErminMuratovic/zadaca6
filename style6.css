@@ -1,0 +1,187 @@
+* {
+margin: 0;
+padding: 0;
+}
+body {
+font-family: Arial, Sans-Serif;
+}
+header {
+height: 50px;
+}
+.logo {
+height:50px;
+width:40%;
+position: absolute;
+}
+.logo img {
+margin:10px 20px 10px 200px;	
+width: 100px;
+height:30px;
+}
+ul {
+	list-style-type: none;
+	margin-right:50px;
+	padding: 0;
+	width:60%;
+	height:50px;
+	float:right;
+}
+li{
+	float: left;
+}
+li a {
+display: block;
+color: black;
+text-align: center;
+padding:20px;
+text-decoration: none;
+line-height: 10px;
+font-size:12px;
+}
+li a:hover{
+background-color:orange;
+
+}
+#Search{
+	margin-left:80px;
+	background-color:grey;
+	width:150px;
+	text-align:left;
+	border-radius:10px;
+	padding:5px;
+	margin-top:15px;
+	color:dark-grey;
+}
+.main{
+	background-image: url("beach.jpg");
+	background-color: #cccccc;
+	height: 400px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+.text{
+	position:absolute;
+	width:28%;
+	margin-left:25%;
+	text-align:left;
+	font-size:15px;
+}
+h2{
+	color:white;
+	margin-top:40px;
+	margin-bottom:20px;
+}
+.text p{
+	color:white;
+	margin-bottom:15px;
+}
+.button{
+	height:25px;
+	width:200px;
+	margin-top:40px;
+	background-color:#FFC300;
+	border-radius:15px;
+	text-align:left;
+	border:none;
+	display:block;
+	font-size:13px;
+}
+.button a{
+	padding:5px;
+	color:white;
+}
+.button img{
+	height:10px;
+	width:10px;
+	float:right;
+	padding:5px;
+}
+.section{
+	width:78%;
+	float:right;
+	position:relative;
+}
+h4{
+	margin-top:30px;
+	margin-bottom:30px;
+}
+hr{
+	margin-right:30px;
+}
+.Magnificent{
+	width:28%;
+	font-size:14px;
+	position:absolut;
+	float:left;
+	margin-right:20px;
+}
+.Magnificent img{
+	height:35px;
+	width:35px;
+	margin-top:25px;
+	margin-bottom:25px;
+}
+h3{
+	margin-bottom:25px;
+}
+.Magnificent a{
+	margin-top:6px;
+	color:orange;
+}
+.plavilijevo{
+	width:100%;
+	height:10px;
+	background-color:#C8E8ED;
+	margin-top:25px;
+	margin-bottom:25px;
+}
+.Cool{
+	width:28%;
+	font-size:14px;
+	position:absolut;
+	float:left;
+	margin-right:20px;
+}
+.Cool img{
+	height:35px;
+	width:35px;
+	margin-top:25px;
+	margin-bottom:25px;
+}
+.Cool a{
+	margin-top:6px;
+	color:orange;
+}
+.plavisredina{
+	width:100%;
+	height:10px;
+	background-color:#C8E8ED;
+	margin-top:25px;
+	margin-bottom:25px;
+}
+.Dzeko{
+	width:28%;
+	font-size:14px;
+	position:absolut;
+	float:left;
+	margin-right:20px;
+}
+.Dzeko img{
+	height:35px;
+	width:35px;
+	margin-top:25px;
+	margin-bottom:25px;
+}
+.Dzeko a{
+	margin-top:6px;
+	color:orange;
+}
+.plavidesno{
+	width:100%;
+	height:10px;
+	background-color:#C8E8ED;
+	margin-top:25px;
+	margin-bottom:25px;
+
